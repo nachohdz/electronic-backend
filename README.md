@@ -1,3 +1,3 @@
 # electronic-backend
-
-# run `node index.js`
+### run `npm install`
+### run `node index.js`
